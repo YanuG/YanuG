@@ -30,5 +30,5 @@ Hi there 👋. This is my placeholder bio. I'll update this soon.
 
 ### Learning
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+<a href="https://www.electronjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css" alt="electron" width="40" height="40"/> </a> 
 
