@@ -29,6 +29,7 @@ Hi there 👋. This is my placeholder bio. I'll update this soon.
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://webassembly.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" alt="wasm" width="40" height="40"/> </a> 
+<a href="https://www.qt.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qticon" width="40" height="40"/> </a> 
 
 ### Learning
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
